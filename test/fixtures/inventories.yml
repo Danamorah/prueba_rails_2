@@ -1,11 +1,16 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  sku: MyString
-  wheel_size: 1
-  description: MyString
+  sku: M1238PQ3
+  wheel_size: 26
+  description: Nice wheel
 
 two:
-  sku: MyString
-  wheel_size: 1
-  description: MyString
+  sku: M3265RB5
+  wheel_size: 29
+  description: Pretty wheel
+
+three:
+  sku: M7692NK1
+  wheel_size: 24
+  description: Ugly wheel  
